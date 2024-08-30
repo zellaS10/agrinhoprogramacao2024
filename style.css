@@ -13,7 +13,7 @@
 }
 
 .cabeçalho-título {
-    color: #C72A2C;
+    color: #149c32ad;
     font-size: 54px;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #137453db;
     color: white;
 }
 
@@ -98,7 +98,7 @@
 
 .rodapé{
     background-color: #300301;
-    color: #960903;
+    color: #0e6b32;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
